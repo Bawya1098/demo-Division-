@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.testing.DivisionTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-09-21T09:51:58" hostname="indchnbawyasmbp" time="0.003">
+  <properties/>
+  <testcase name="testZero" classname="com.testing.DivisionTest" time="0.002"/>
+  <testcase name="testGreaterThanZero" classname="com.testing.DivisionTest" time="0.001"/>
+  <testcase name="testGetValues_V1" classname="com.testing.DivisionTest" time="0.0"/>
+  <testcase name="testGetValues_V2" classname="com.testing.DivisionTest" time="0.0"/>
+  <testcase name="testLesserThanZero" classname="com.testing.DivisionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
