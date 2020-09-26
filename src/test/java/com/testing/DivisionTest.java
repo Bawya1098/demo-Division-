@@ -36,7 +36,7 @@ public class DivisionTest {
     }
 
 //    @Test
-//    public void testLesserThanZero() {
+//    public void TestWithNegativeValues() {
 //        int[] values = Division.getValues(-3, -1);
 //
 //        int expectedQuotient = 3;
